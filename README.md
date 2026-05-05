@@ -42,8 +42,8 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lcajigasm&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcajigasm&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=lcajigasm&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lcajigasm&theme=onedark&no-frame=true&row=1&column=4&margin-w=8" height="165" />
 </p>
 
 <p align="center">
