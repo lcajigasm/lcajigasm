@@ -1,16 +1,58 @@
-## Hi there 👋
+# Luis Cajigas &nbsp;·&nbsp; lcajigasm
 
-<!--
-**lcajigasm/lcajigasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CTO · OSS Maker · DevOps & IoT Geek · Madrid 🇪🇸**
 
-Here are some ideas to get you started:
+10+ years building product — from embedded systems to global SaaS. Currently CTO at [doctorSIM](https://www.doctorsim.com), helping millions unlock and switch phones worldwide. I ship open-source tools to scratch my own itches: CLI utilities, desktop apps, and server middleware.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *Ship beats perfect.*
+
+---
+
+## 🛠 What I'm Building
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [bookmarks-sync](https://github.com/lcajigasm/bookmarks-sync) | Sync bookmarks between any two browsers on macOS — zero dependencies | Python · CLI |
+| [m3u-player](https://github.com/lcajigasm/m3u-player) | Desktop IPTV player that solves CORS — full M3U/HLS support | Electron · JS |
+| [lux-edit](https://github.com/lcajigasm/lux-edit) | Fast, free text editor inspired by Sublime Text | Rust · egui |
+| [streamdeck-absence.io-plugin](https://github.com/lcajigasm/streamdeck-absence.io-plugin) | Clock in/out on absence.io directly from your Stream Deck | HTML · JS |
+| [ZapCMS](https://github.com/lcajigasm/ZapCMS) | Full CMS built with Laravel & Tailwind CSS | PHP · Laravel |
+| [maintenance-middleware](https://github.com/lcajigasm/maintenance-middleware) | Slim 3 middleware for maintenance mode with zero config | PHP |
+| [remote-port-middleware](https://github.com/lcajigasm/remote-port-middleware) | PSR-7 middleware to expose client remote port as request attribute | PHP |
+| [IpTablesConfigurator](https://github.com/lcajigasm/IpTablesConfigurator) | One-shot shell script to configure iptables firewalls | Shell |
+
+---
+
+## ⚙️ Tech Stack
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lcajigasm&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcajigasm&layout=compact&theme=dark&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lcajigasm&theme=github-compact&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🤝 Connect
+
+[![Twitter / X](https://img.shields.io/badge/@lcajigasm-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/lcajigasm)
+[![doctorSIM](https://img.shields.io/badge/doctorSIM-0057FF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.doctorsim.com)
