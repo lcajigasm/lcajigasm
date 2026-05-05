@@ -2,7 +2,7 @@
 
 **CTO · OSS Maker · DevOps & IoT Geek · Madrid 🇪🇸**
 
-10+ years building product — from embedded systems to global SaaS. Currently CTO at [doctorSIM](https://www.doctorsim.com), helping millions unlock and switch phones worldwide. I ship open-source tools to scratch my own itches: CLI utilities, desktop apps, and server middleware.
+10+ years building product — from embedded systems to global SaaS. Currently CTO at [doctorSIM](https://www.doctorsim.com), building AI tools to help millions unlock and switch phones worldwide. I ship open-source tools to scratch my own itches: CLI utilities, desktop apps, and server middleware.
 
 > *Ship beats perfect.*
 
@@ -50,4 +50,5 @@
 ## 🤝 Connect
 
 [![Twitter / X](https://img.shields.io/badge/@lcajigasm-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/lcajigasm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-cajigas-martinez/)
 [![doctorSIM](https://img.shields.io/badge/doctorSIM-0057FF?style=flat-square&logo=googlechrome&logoColor=white)](https://www.doctorsim.com)
