@@ -42,12 +42,7 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=lcajigasm&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165" />
-  <img src="https://github-profile-trophy.vercel.app/?username=lcajigasm&theme=onedark&no-frame=true&row=1&column=4&margin-w=8" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lcajigasm&theme=github-compact&hide_border=true&area=true" />
+  <img src="metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
