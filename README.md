@@ -15,6 +15,8 @@
 | [bookmarks-sync](https://github.com/lcajigasm/bookmarks-sync) | Sync bookmarks between any two browsers on macOS — zero dependencies | Python · CLI |
 | [m3u-player](https://github.com/lcajigasm/m3u-player) | Desktop IPTV player that solves CORS — full M3U/HLS support | Electron · JS |
 | [lux-edit](https://github.com/lcajigasm/lux-edit) | Fast, free text editor inspired by Sublime Text | Rust · egui |
+| [gh-manager](https://github.com/lcajigasm/gh-manager) | Terminal TUI/CLI to manage multiple GitHub accounts — switch, inspect tokens, assign per directory | Shell · CLI |
+| [goodlinks-mcp](https://github.com/lcajigasm/goodlinks-mcp) | MCP server connecting Claude to GoodLinks — search, summarise, tag and export your reading list | JS · MCP |
 | [streamdeck-absence.io-plugin](https://github.com/lcajigasm/streamdeck-absence.io-plugin) | Clock in/out on absence.io directly from your Stream Deck | HTML · JS |
 | [ZapCMS](https://github.com/lcajigasm/ZapCMS) | Full CMS built with Laravel & Tailwind CSS | PHP · Laravel |
 | [maintenance-middleware](https://github.com/lcajigasm/maintenance-middleware) | Slim 3 middleware for maintenance mode with zero config | PHP |
