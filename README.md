@@ -12,16 +12,18 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [lux](https://github.com/lcajigasm/lux) | Fast, free, cross-platform text/code editor — the quality bar is Sublime Text 3 | Rust |
+| [luxDoc](https://github.com/lcajigasm/luxDoc) | Offline API documentation browser for macOS, Dash-compatible docsets | Rust |
+| [loop-engineering](https://github.com/lcajigasm/loop-engineering) | Drive any project as verified loops from Claude Code and Codex — goal maps, scoped verify gates, budgets, receipts | Shell |
+| [site-ip-badge](https://github.com/lcajigasm/site-ip-badge) | Chrome extension that shows the IP behind the current page — published on the Web Store | JS · Chrome MV3 |
+| [things3-mcp](https://github.com/lcajigasm/things3-mcp) | MCP server connecting Claude to Things 3 on macOS | JS · MCP |
+| [goodlinks-mcp](https://github.com/lcajigasm/goodlinks-mcp) | MCP server connecting Claude to GoodLinks — search, summarise, tag and export your reading list | JS · MCP |
 | [bookmarks-sync](https://github.com/lcajigasm/bookmarks-sync) | Sync bookmarks between any two browsers on macOS — zero dependencies | Python · CLI |
 | [m3u-player](https://github.com/lcajigasm/m3u-player) | Desktop IPTV player that solves CORS — full M3U/HLS support | Electron · JS |
-| [lux-edit](https://github.com/lcajigasm/lux-edit) | Fast, free text editor inspired by Sublime Text | Rust · egui |
 | [gh-manager](https://github.com/lcajigasm/gh-manager) | Terminal TUI/CLI to manage multiple GitHub accounts — switch, inspect tokens, assign per directory | Shell · CLI |
-| [goodlinks-mcp](https://github.com/lcajigasm/goodlinks-mcp) | MCP server connecting Claude to GoodLinks — search, summarise, tag and export your reading list | JS · MCP |
 | [streamdeck-absence.io-plugin](https://github.com/lcajigasm/streamdeck-absence.io-plugin) | Clock in/out on absence.io directly from your Stream Deck | HTML · JS |
 | [ZapCMS](https://github.com/lcajigasm/ZapCMS) | Full CMS built with Laravel & Tailwind CSS | PHP · Laravel |
 | [maintenance-middleware](https://github.com/lcajigasm/maintenance-middleware) | Slim 3 middleware for maintenance mode with zero config | PHP |
-| [remote-port-middleware](https://github.com/lcajigasm/remote-port-middleware) | PSR-7 middleware to expose client remote port as request attribute | PHP |
-| [IpTablesConfigurator](https://github.com/lcajigasm/IpTablesConfigurator) | One-shot shell script to configure iptables firewalls | Shell |
 
 ---
 
