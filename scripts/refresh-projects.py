@@ -34,8 +34,8 @@ PROJECTS = [
         "pages": "https://lcajigasm.github.io/lux/",
         "images": [
             {
-                "alt": "Lux editing docs/screenshots/example.rs",
-                "url": "https://raw.githubusercontent.com/lcajigasm/lux/main/docs/screenshots/editor.png",
+                "alt": "Lux go to file, captured next to Sublime Text and Zed",
+                "url": "https://raw.githubusercontent.com/lcajigasm/lux/main/docs/compare/goto.png",
             }
         ],
     },
@@ -45,9 +45,14 @@ PROJECTS = [
             "GPU-accelerated, block-based terminal emulator with native "
             "agent tool-calling — zero logins, zero telemetry."
         ),
-        "brew": "brew install lcajigasm/tap/ownterm",
+        "brew": "brew install --cask lcajigasm/tap/ownterm",
         "pages": "https://lcajigasm.github.io/ownterm/",
-        "images": [],
+        "images": [
+            {
+                "alt": "ownterm-tui help",
+                "url": "https://raw.githubusercontent.com/lcajigasm/ownterm/master/docs/screenshots/ownterm-tui-help.png",
+            }
+        ],
     },
     {
         "repo": "omega",
