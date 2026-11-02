@@ -29,34 +29,45 @@ USER_AGENT = "lcajigasm-profile-refresh"
 PROJECTS = [
     {
         "repo": "lux",
-        "description": "The ultra-fast, zero-bloat native code editor engineered in Rust.",
+        "description": (
+            "A folder opens with its children in the sidebar, and "
+            "`lux file-a file-b` opens each file as its own tab."
+        ),
         "brew": "brew install --cask lcajigasm/tap/lux",
         "pages": "https://lcajigasm.github.io/lux/",
         "images": [
             {
-                "alt": "Lux go to file, captured next to Sublime Text and Zed",
-                "url": "https://raw.githubusercontent.com/lcajigasm/lux/main/docs/compare/goto.png",
-            }
+                "alt": "Lux file tree beside Sublime Text and Zed",
+                "url": "https://raw.githubusercontent.com/lcajigasm/lux/main/docs/compare/tree.png",
+            },
+            {
+                "alt": "Lux tabs beside Sublime Text and Zed",
+                "url": "https://raw.githubusercontent.com/lcajigasm/lux/main/docs/compare/tabs.png",
+            },
         ],
     },
     {
         "repo": "ownterm",
         "description": (
-            "GPU-accelerated, block-based terminal emulator with native "
-            "agent tool-calling — zero logins, zero telemetry."
+            "Local workflows stay on this machine: "
+            "`ownterm-tui workflow add` saves a command for the palette, "
+            "with no Warp account or telemetry."
         ),
         "brew": "brew install --cask lcajigasm/tap/ownterm",
         "pages": "https://lcajigasm.github.io/ownterm/",
         "images": [
             {
-                "alt": "ownterm-tui help",
-                "url": "https://raw.githubusercontent.com/lcajigasm/ownterm/master/docs/screenshots/ownterm-tui-help.png",
+                "alt": "ownterm-tui workflow list",
+                "url": "https://raw.githubusercontent.com/lcajigasm/ownterm/master/docs/screenshots/ownterm-tui-workflows.png",
             }
         ],
     },
     {
         "repo": "omega",
-        "description": "AI-driven macOS maintenance.",
+        "description": (
+            "Private keys and credential files stay on the machine, "
+            "`omega doctor` checks the configured model, and a 429 waits for `Retry-After`."
+        ),
         "brew": "brew install lcajigasm/tap/omega",
         "pages": "https://lcajigasm.github.io/omega/",
         "images": [
