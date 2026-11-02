@@ -11,35 +11,37 @@
 
 Versions and links follow the latest published release. Homebrew packages come from the [lcajigasm/tap](https://github.com/lcajigasm/homebrew-tap).
 
-### [lux](https://github.com/lcajigasm/lux) · [v1.3.1](https://github.com/lcajigasm/lux/releases/tag/v1.3.1)
+### [lux](https://github.com/lcajigasm/lux) · [v1.4.0](https://github.com/lcajigasm/lux/releases/tag/v1.4.0)
 
 The ultra-fast, zero-bloat native code editor engineered in Rust.
 
-![Lux editing docs/screenshots/example.rs](https://raw.githubusercontent.com/lcajigasm/lux/main/docs/screenshots/editor.png)
+![Lux go to file, captured next to Sublime Text and Zed](https://raw.githubusercontent.com/lcajigasm/lux/main/docs/compare/goto.png)
 
-[Repository](https://github.com/lcajigasm/lux) · [Release v1.3.1](https://github.com/lcajigasm/lux/releases/tag/v1.3.1) · [Pages](https://lcajigasm.github.io/lux/)
+[Repository](https://github.com/lcajigasm/lux) · [Release v1.4.0](https://github.com/lcajigasm/lux/releases/tag/v1.4.0) · [Pages](https://lcajigasm.github.io/lux/) · [lux-macos-universal.dmg](https://github.com/lcajigasm/lux/releases/download/v1.4.0/lux-macos-universal.dmg)
 
 ```bash
 brew install --cask lcajigasm/tap/lux
 ```
 
-### [ownterm](https://github.com/lcajigasm/ownterm) · [v0.5.0](https://github.com/lcajigasm/ownterm/releases/tag/v0.5.0)
+### [ownterm](https://github.com/lcajigasm/ownterm) · [v0.8.0](https://github.com/lcajigasm/ownterm/releases/tag/v0.8.0)
 
 GPU-accelerated, block-based terminal emulator with native agent tool-calling — zero logins, zero telemetry.
 
-[Repository](https://github.com/lcajigasm/ownterm) · [Release v0.5.0](https://github.com/lcajigasm/ownterm/releases/tag/v0.5.0) · [Pages](https://lcajigasm.github.io/ownterm/)
+![ownterm-tui help](https://raw.githubusercontent.com/lcajigasm/ownterm/master/docs/screenshots/ownterm-tui-help.png)
+
+[Repository](https://github.com/lcajigasm/ownterm) · [Release v0.8.0](https://github.com/lcajigasm/ownterm/releases/tag/v0.8.0) · [Pages](https://lcajigasm.github.io/ownterm/) · [ownterm-macos-universal.dmg](https://github.com/lcajigasm/ownterm/releases/download/v0.8.0/ownterm-macos-universal.dmg)
 
 ```bash
-brew install lcajigasm/tap/ownterm
+brew install --cask lcajigasm/tap/ownterm
 ```
 
-### [omega](https://github.com/lcajigasm/omega) · [v0.10.0](https://github.com/lcajigasm/omega/releases/tag/v0.10.0)
+### [omega](https://github.com/lcajigasm/omega) · [v0.11.0](https://github.com/lcajigasm/omega/releases/tag/v0.11.0)
 
 AI-driven macOS maintenance.
 
 ![A failure diagnosed and an approval card](https://raw.githubusercontent.com/lcajigasm/omega/main/docs/assets/confirm.png)
 
-[Repository](https://github.com/lcajigasm/omega) · [Release v0.10.0](https://github.com/lcajigasm/omega/releases/tag/v0.10.0) · [Pages](https://lcajigasm.github.io/omega/)
+[Repository](https://github.com/lcajigasm/omega) · [Release v0.11.0](https://github.com/lcajigasm/omega/releases/tag/v0.11.0) · [Pages](https://lcajigasm.github.io/omega/)
 
 ```bash
 brew install lcajigasm/tap/omega
