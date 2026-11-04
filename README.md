@@ -37,13 +37,13 @@ Local workflows stay on this machine: `ownterm-tui workflow add` saves a command
 brew install --cask lcajigasm/tap/ownterm
 ```
 
-### [omega](https://github.com/lcajigasm/omega) · [v0.12.0](https://github.com/lcajigasm/omega/releases/tag/v0.12.0)
+### [omega](https://github.com/lcajigasm/omega) · [v0.13.0](https://github.com/lcajigasm/omega/releases/tag/v0.13.0)
 
 Private keys and credential files stay on the machine, `omega doctor` checks the configured model, and a 429 waits for `Retry-After`.
 
 ![A failure diagnosed and an approval card](https://raw.githubusercontent.com/lcajigasm/omega/main/docs/assets/confirm.png)
 
-[Repository](https://github.com/lcajigasm/omega) · [Release v0.12.0](https://github.com/lcajigasm/omega/releases/tag/v0.12.0) · [Pages](https://lcajigasm.github.io/omega/)
+[Repository](https://github.com/lcajigasm/omega) · [Release v0.13.0](https://github.com/lcajigasm/omega/releases/tag/v0.13.0) · [Pages](https://lcajigasm.github.io/omega/)
 
 ```bash
 brew install lcajigasm/tap/omega
