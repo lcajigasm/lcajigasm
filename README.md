@@ -11,7 +11,7 @@
 
 Versions and links follow the latest published release. Homebrew packages come from the [lcajigasm/tap](https://github.com/lcajigasm/homebrew-tap).
 
-### [lux](https://github.com/lcajigasm/lux) · [v1.5.0](https://github.com/lcajigasm/lux/releases/tag/v1.5.0)
+### [lux](https://github.com/lcajigasm/lux) · [v1.5.1](https://github.com/lcajigasm/lux/releases/tag/v1.5.1)
 
 A folder opens with its children in the sidebar, and `lux file-a file-b` opens each file as its own tab.
 
@@ -19,7 +19,7 @@ A folder opens with its children in the sidebar, and `lux file-a file-b` opens e
 
 ![Lux tabs beside Sublime Text and Zed](https://raw.githubusercontent.com/lcajigasm/lux/main/docs/compare/tabs.png)
 
-[Repository](https://github.com/lcajigasm/lux) · [Release v1.5.0](https://github.com/lcajigasm/lux/releases/tag/v1.5.0) · [Pages](https://lcajigasm.github.io/lux/) · [lux-macos-universal.dmg](https://github.com/lcajigasm/lux/releases/download/v1.5.0/lux-macos-universal.dmg)
+[Repository](https://github.com/lcajigasm/lux) · [Release v1.5.1](https://github.com/lcajigasm/lux/releases/tag/v1.5.1) · [Pages](https://lcajigasm.github.io/lux/) · [lux-macos-universal.dmg](https://github.com/lcajigasm/lux/releases/download/v1.5.1/lux-macos-universal.dmg)
 
 ```bash
 brew install --cask lcajigasm/tap/lux
