@@ -11,7 +11,7 @@
 
 Versions and links follow the latest published release. Homebrew packages come from the [lcajigasm/tap](https://github.com/lcajigasm/homebrew-tap).
 
-### [lux](https://github.com/lcajigasm/lux) · [v1.5.5](https://github.com/lcajigasm/lux/releases/tag/v1.5.5)
+### [lux](https://github.com/lcajigasm/lux) · [v1.5.6](https://github.com/lcajigasm/lux/releases/tag/v1.5.6)
 
 A folder opens with its children in the sidebar, and `lux file-a file-b` opens each file as its own tab.
 
@@ -19,7 +19,7 @@ A folder opens with its children in the sidebar, and `lux file-a file-b` opens e
 
 ![Lux tabs beside Sublime Text and Zed](https://raw.githubusercontent.com/lcajigasm/lux/main/docs/compare/tabs.png)
 
-[Repository](https://github.com/lcajigasm/lux) · [Release v1.5.5](https://github.com/lcajigasm/lux/releases/tag/v1.5.5) · [Pages](https://lcajigasm.github.io/lux/) · [lux-macos-universal.dmg](https://github.com/lcajigasm/lux/releases/download/v1.5.5/lux-macos-universal.dmg)
+[Repository](https://github.com/lcajigasm/lux) · [Release v1.5.6](https://github.com/lcajigasm/lux/releases/tag/v1.5.6) · [Pages](https://lcajigasm.github.io/lux/) · [lux-macos-universal.dmg](https://github.com/lcajigasm/lux/releases/download/v1.5.6/lux-macos-universal.dmg)
 
 ```bash
 brew install --cask lcajigasm/tap/lux
@@ -37,13 +37,13 @@ Local workflows stay on this machine: `ownterm-tui workflow add` saves a command
 brew install --cask lcajigasm/tap/ownterm
 ```
 
-### [omega](https://github.com/lcajigasm/omega) · [v0.13.0](https://github.com/lcajigasm/omega/releases/tag/v0.13.0)
+### [omega](https://github.com/lcajigasm/omega) · [v0.16.0](https://github.com/lcajigasm/omega/releases/tag/v0.16.0)
 
 Private keys and credential files stay on the machine, `omega doctor` checks the configured model, and a 429 waits for `Retry-After`.
 
 ![A failure diagnosed and an approval card](https://raw.githubusercontent.com/lcajigasm/omega/main/docs/assets/confirm.png)
 
-[Repository](https://github.com/lcajigasm/omega) · [Release v0.13.0](https://github.com/lcajigasm/omega/releases/tag/v0.13.0) · [Pages](https://lcajigasm.github.io/omega/)
+[Repository](https://github.com/lcajigasm/omega) · [Release v0.16.0](https://github.com/lcajigasm/omega/releases/tag/v0.16.0) · [Pages](https://lcajigasm.github.io/omega/)
 
 ```bash
 brew install lcajigasm/tap/omega
