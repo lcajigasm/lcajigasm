@@ -143,50 +143,64 @@ def dmg_assets(release: dict) -> list[dict]:
     return assets
 
 
+def inline_code(text: str) -> str:
+    """Turn `backticks` into <code> so text renders inside HTML table cells."""
+    out, parts = [], text.split("`")
+    for index, part in enumerate(parts):
+        part = part.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
+        out.append(f"<code>{part}</code>" if index % 2 else part)
+    return "".join(out)
+
+
 def render_project(project: dict, release: dict) -> str:
     repo = project["repo"]
     tag = release["tag_name"]
     repo_url = f"https://github.com/{OWNER}/{repo}"
     release_url = release["html_url"]
+    badge = (
+        f"https://img.shields.io/badge/{tag.replace('-', '--')}-ff6a3d"
+        "?style=flat-square&labelColor=1f2328"
+    )
     lines = [
-        f"### [{repo}]({repo_url}) · [{tag}]({release_url})",
-        "",
-        project["description"],
-        "",
+        '<td width="33%" valign="top">',
+        f'<h3><a href="{repo_url}">{repo}</a></h3>',
+        f'<a href="{release_url}"><img src="{badge}" alt="{tag}"></a>',
+        "<br><br>",
     ]
-    for image in project["images"]:
-        if url_ok(image["url"], image=True):
-            lines.append(f"![{image['alt']}]({image['url']})")
-            lines.append("")
-    links = [
-        f"[Repository]({repo_url})",
-        f"[Release {tag}]({release_url})",
-    ]
+    image = next((img for img in project["images"] if url_ok(img["url"], image=True)), None)
+    if image:
+        lines.append(
+            f'<a href="{repo_url}"><img src="{image["url"]}" alt="{image["alt"]}" width="100%"></a>'
+        )
+        lines.append("<br>")
+    lines.append(f"<sub>{inline_code(project['description'])}</sub>")
+    lines.append("<br><br>")
+    lines.append(f"<code>{project['brew']}</code>")
+    lines.append("<br><br>")
+    links = [f'<a href="{repo_url}">Repo</a>']
     if url_ok(project["pages"], image=False):
-        links.append(f"[Pages]({project['pages']})")
+        links.append(f'<a href="{project["pages"]}">Website</a>')
     for asset in dmg_assets(release):
-        links.append(f"[{asset['name']}]({asset['url']})")
-    lines.append(" · ".join(links))
-    lines.append("")
-    lines.append("```bash")
-    lines.append(project["brew"])
-    lines.append("```")
+        links.append(f'<a href="{asset["url"]}">Download .dmg</a>')
+    lines.append("<sub>" + " · ".join(links) + "</sub>")
+    lines.append("</td>")
     return "\n".join(lines)
 
 
 def render_block(releases: list[tuple[dict, dict]]) -> str:
     parts = [
         START,
-        "## Featured",
+        "## 🚀 Featured",
         "",
-        "Versions and links follow the latest published release. "
-        "Homebrew packages come from the "
-        "[lcajigasm/tap](https://github.com/lcajigasm/homebrew-tap).",
+        "<sub>Versions follow the latest published release · installable from "
+        '<a href="https://github.com/lcajigasm/homebrew-tap">lcajigasm/tap</a></sub>',
         "",
+        "<table>",
+        "<tr>",
     ]
-    rendered = [render_project(project, release) for project, release in releases]
-    parts.append("\n\n".join(rendered))
-    parts.append("")
+    parts.extend(render_project(project, release) for project, release in releases)
+    parts.append("</tr>")
+    parts.append("</table>")
     parts.append(END)
     return "\n".join(parts)
 
