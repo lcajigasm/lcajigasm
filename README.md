@@ -50,7 +50,7 @@
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/lcajigasm/omega">omega</a></h3>
-<a href="https://github.com/lcajigasm/omega/releases/tag/v0.19.0"><img src="https://img.shields.io/badge/v0.19.0-ff6a3d?style=flat-square&labelColor=1f2328" alt="v0.19.0"></a>
+<a href="https://github.com/lcajigasm/omega/releases/tag/v0.22.1"><img src="https://img.shields.io/badge/v0.22.1-ff6a3d?style=flat-square&labelColor=1f2328" alt="v0.22.1"></a>
 <br><br>
 <a href="https://github.com/lcajigasm/omega"><img src="https://raw.githubusercontent.com/lcajigasm/omega/main/docs/assets/confirm.png" alt="A failure diagnosed and an approval card" width="100%"></a>
 <br>
@@ -58,7 +58,7 @@
 <br><br>
 <code>brew install lcajigasm/tap/omega</code>
 <br><br>
-<sub><a href="https://github.com/lcajigasm/omega">Repo</a> · <a href="https://lcajigasm.github.io/omega/">Website</a> · <a href="https://github.com/lcajigasm/omega/releases/download/v0.19.0/omega-macos-universal.dmg">Download .dmg</a></sub>
+<sub><a href="https://github.com/lcajigasm/omega">Repo</a> · <a href="https://lcajigasm.github.io/omega/">Website</a> · <a href="https://github.com/lcajigasm/omega/releases/download/v0.22.1/omega-macos-universal.dmg">Download .dmg</a></sub>
 </td>
 </tr>
 </table>
