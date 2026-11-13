@@ -26,7 +26,7 @@
 <tr>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/lcajigasm/lux">lux</a></h3>
-<a href="https://github.com/lcajigasm/lux/releases/tag/v1.5.9"><img src="https://img.shields.io/badge/v1.5.9-ff6a3d?style=flat-square&labelColor=1f2328" alt="v1.5.9"></a>
+<a href="https://github.com/lcajigasm/lux/releases/tag/v1.5.10"><img src="https://img.shields.io/badge/v1.5.10-ff6a3d?style=flat-square&labelColor=1f2328" alt="v1.5.10"></a>
 <br><br>
 <a href="https://github.com/lcajigasm/lux"><img src="https://raw.githubusercontent.com/lcajigasm/lux/main/docs/compare/tree.png" alt="Lux file tree beside Sublime Text and Zed" width="100%"></a>
 <br>
@@ -34,7 +34,7 @@
 <br><br>
 <code>brew install --cask lcajigasm/tap/lux</code>
 <br><br>
-<sub><a href="https://github.com/lcajigasm/lux">Repo</a> · <a href="https://lcajigasm.github.io/lux/">Website</a> · <a href="https://github.com/lcajigasm/lux/releases/download/v1.5.9/lux-macos-universal.dmg">Download .dmg</a></sub>
+<sub><a href="https://github.com/lcajigasm/lux">Repo</a> · <a href="https://lcajigasm.github.io/lux/">Website</a> · <a href="https://github.com/lcajigasm/lux/releases/download/v1.5.10/lux-macos-universal.dmg">Download .dmg</a></sub>
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/lcajigasm/ownterm">ownterm</a></h3>
