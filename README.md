@@ -38,7 +38,7 @@
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/lcajigasm/ownterm">ownterm</a></h3>
-<a href="https://github.com/lcajigasm/ownterm/releases/tag/v0.9.0"><img src="https://img.shields.io/badge/v0.9.0-ff6a3d?style=flat-square&labelColor=1f2328" alt="v0.9.0"></a>
+<a href="https://github.com/lcajigasm/ownterm/releases/tag/v0.11.0"><img src="https://img.shields.io/badge/v0.11.0-ff6a3d?style=flat-square&labelColor=1f2328" alt="v0.11.0"></a>
 <br><br>
 <a href="https://github.com/lcajigasm/ownterm"><img src="https://raw.githubusercontent.com/lcajigasm/ownterm/master/docs/screenshots/ownterm-tui-workflows.png" alt="ownterm-tui workflow list" width="100%"></a>
 <br>
@@ -46,11 +46,11 @@
 <br><br>
 <code>brew install --cask lcajigasm/tap/ownterm</code>
 <br><br>
-<sub><a href="https://github.com/lcajigasm/ownterm">Repo</a> · <a href="https://lcajigasm.github.io/ownterm/">Website</a> · <a href="https://github.com/lcajigasm/ownterm/releases/download/v0.9.0/ownterm-macos-universal.dmg">Download .dmg</a></sub>
+<sub><a href="https://github.com/lcajigasm/ownterm">Repo</a> · <a href="https://lcajigasm.github.io/ownterm/">Website</a> · <a href="https://github.com/lcajigasm/ownterm/releases/download/v0.11.0/ownterm-macos-universal.dmg">Download .dmg</a></sub>
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/lcajigasm/omega">omega</a></h3>
-<a href="https://github.com/lcajigasm/omega/releases/tag/v0.22.1"><img src="https://img.shields.io/badge/v0.22.1-ff6a3d?style=flat-square&labelColor=1f2328" alt="v0.22.1"></a>
+<a href="https://github.com/lcajigasm/omega/releases/tag/v0.24.0"><img src="https://img.shields.io/badge/v0.24.0-ff6a3d?style=flat-square&labelColor=1f2328" alt="v0.24.0"></a>
 <br><br>
 <a href="https://github.com/lcajigasm/omega"><img src="https://raw.githubusercontent.com/lcajigasm/omega/main/docs/assets/confirm.png" alt="A failure diagnosed and an approval card" width="100%"></a>
 <br>
@@ -58,7 +58,7 @@
 <br><br>
 <code>brew install lcajigasm/tap/omega</code>
 <br><br>
-<sub><a href="https://github.com/lcajigasm/omega">Repo</a> · <a href="https://lcajigasm.github.io/omega/">Website</a> · <a href="https://github.com/lcajigasm/omega/releases/download/v0.22.1/omega-macos-universal.dmg">Download .dmg</a></sub>
+<sub><a href="https://github.com/lcajigasm/omega">Repo</a> · <a href="https://lcajigasm.github.io/omega/">Website</a> · <a href="https://github.com/lcajigasm/omega/releases/download/v0.24.0/omega-macos-universal.dmg">Download .dmg</a></sub>
 </td>
 </tr>
 </table>
