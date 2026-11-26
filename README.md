@@ -26,7 +26,7 @@
 <tr>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/lcajigasm/lux">lux</a></h3>
-<a href="https://github.com/lcajigasm/lux/releases/tag/v1.5.11"><img src="https://img.shields.io/badge/v1.5.11-ff6a3d?style=flat-square&labelColor=1f2328" alt="v1.5.11"></a>
+<a href="https://github.com/lcajigasm/lux/releases/tag/v1.5.12"><img src="https://img.shields.io/badge/v1.5.12-ff6a3d?style=flat-square&labelColor=1f2328" alt="v1.5.12"></a>
 <br><br>
 <a href="https://github.com/lcajigasm/lux"><img src="https://raw.githubusercontent.com/lcajigasm/lux/main/docs/compare/tree.png" alt="Lux file tree beside Sublime Text and Zed" width="100%"></a>
 <br>
@@ -34,7 +34,7 @@
 <br><br>
 <code>brew install --cask lcajigasm/tap/lux</code>
 <br><br>
-<sub><a href="https://github.com/lcajigasm/lux">Repo</a> · <a href="https://lcajigasm.github.io/lux/">Website</a> · <a href="https://github.com/lcajigasm/lux/releases/download/v1.5.11/lux-macos-universal.dmg">Download .dmg</a></sub>
+<sub><a href="https://github.com/lcajigasm/lux">Repo</a> · <a href="https://lcajigasm.github.io/lux/">Website</a> · <a href="https://github.com/lcajigasm/lux/releases/download/v1.5.12/lux-macos-universal.dmg">Download .dmg</a></sub>
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/lcajigasm/ownterm">ownterm</a></h3>
@@ -50,7 +50,7 @@
 </td>
 <td width="33%" valign="top">
 <h3><a href="https://github.com/lcajigasm/omega">omega</a></h3>
-<a href="https://github.com/lcajigasm/omega/releases/tag/v0.32.0"><img src="https://img.shields.io/badge/v0.32.0-ff6a3d?style=flat-square&labelColor=1f2328" alt="v0.32.0"></a>
+<a href="https://github.com/lcajigasm/omega/releases/tag/v0.35.0"><img src="https://img.shields.io/badge/v0.35.0-ff6a3d?style=flat-square&labelColor=1f2328" alt="v0.35.0"></a>
 <br><br>
 <a href="https://github.com/lcajigasm/omega"><img src="https://raw.githubusercontent.com/lcajigasm/omega/main/docs/assets/confirm.png" alt="A failure diagnosed and an approval card" width="100%"></a>
 <br>
@@ -58,7 +58,7 @@
 <br><br>
 <code>brew install lcajigasm/tap/omega</code>
 <br><br>
-<sub><a href="https://github.com/lcajigasm/omega">Repo</a> · <a href="https://lcajigasm.github.io/omega/">Website</a> · <a href="https://github.com/lcajigasm/omega/releases/download/v0.32.0/omega-macos-universal.dmg">Download .dmg</a></sub>
+<sub><a href="https://github.com/lcajigasm/omega">Repo</a> · <a href="https://lcajigasm.github.io/omega/">Website</a> · <a href="https://github.com/lcajigasm/omega/releases/download/v0.35.0/omega-macos-universal.dmg">Download .dmg</a></sub>
 </td>
 </tr>
 </table>
